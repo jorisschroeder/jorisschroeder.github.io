@@ -28,6 +28,13 @@ ninja.data = [{
           window.open("mailto:%6A%6F%72%69%73.%73%63%68%72%6F%65%64%65%72@%6E%6F%74%74%69%6E%67%68%61%6D.%61%63.%75%6B", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/joris-m-schröder-9414a191", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
