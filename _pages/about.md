@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.nottingham.ac.uk/economics/people/joris.schroeder'>University of Nottingham</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: #>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked aas "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Postdoctoral Research Fellow at the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/) at the University of Nottingham. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work empirically studies the **behavioural principles of cooperation and prosocial behaviour**. The ultimate aim of my research is to enable policy makers and organisations to make **better decisions on how to promote cooperation in situations where self-interest is in conflict with collective interest**. Such situations abound: Avoiding disastrous climate change requires individuals’ pro-environmental behaviour, the functioning of modern healthcare systems is dependent on individuals’ blood donations, and organisations rely on their employees’ effective teamwork. To study these situations, my research uses a broad range of methods, including **modern econometrics, machine learning and mixture modelling, and laboratory, online, and field experiments**. My work is **interdisciplinary**, linking Behavioural Economics, Psychology, and Sociology. My research is typically conducted in **collaboration with societal partners** above all non-profit organisations. This allows me to study the behavioural principles of cooperation while directly addressing challenges that are critical for organisations to achieve their social mission effectively.
