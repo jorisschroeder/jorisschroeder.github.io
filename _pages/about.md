@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.nottingham.ac.uk/economics/people/joris.schroeder'>CeDEx, University of Nottingham</a> 
+subtitle: <a href='https://www.nottingham.ac.uk/cedex/'>CeDEx, University of Nottingham</a> 
 
 profile:
   align: right
