@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.nottingham.ac.uk/economics/people/joris.schroeder'>University of Nottingham</a> 
+subtitle: <a href='https://www.nottingham.ac.uk/economics/people/joris.schroeder'>CeDEx, University of Nottingham</a> 
 
 profile:
   align: right
@@ -30,6 +30,8 @@ latest_posts:
 Welcome to my website!
 
 I am a Postdoctoral Research Fellow at the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/) at the University of Nottingham, where I work on the [PRINCIPLES project](https://www.nottingham.ac.uk/cedex/erc-project-principles/home.aspx) led by [Prof. Simon Gächter](https://www.nottingham.ac.uk/Economics/people/simon.gaechter). 
+
+I am also an Affiliated Researcher at the [Prosocial Health Behaviours Lab](https://sites.google.com/view/prosocialhealthbehavioursgroup/home?authuser=0) led by [Prof. Eamonn Ferguson](https://www.nottingham.ac.uk/psychology/people/eamonn.ferguson) at the University of Nottingham, and the [Social and Economic Psychology group](https://social-econ-psych.univie.ac.at/) led by [Prof. Robert Böhm](https://social-econ-psych.univie.ac.at/team/robert-boehm/) at the University of Vienna. 
 
 My work empirically studies the **behavioural principles of cooperation and prosocial behaviour**. The ultimate aim of my research is to enable policy makers and organisations to make **better decisions on how to promote cooperation in situations where self-interest is in conflict with collective interest**. Such situations abound: Avoiding disastrous climate change requires individuals’ pro-environmental behaviour, the functioning of modern healthcare systems is dependent on individuals’ blood donations, and organisations rely on their employees’ effective teamwork. To study these situations, my research uses a broad range of methods, including **modern econometrics, laboratory, online, and field experiments**. My work is **interdisciplinary**, linking Behavioural Economics, Psychology, and Sociology. My research is typically conducted in **collaboration with societal partners** above all non-profit organisations. Through these partnerships, I study the behavioural principles of cooperation while directly addressing challenges that are critical for organisations to achieve their social mission effectively. 
 
